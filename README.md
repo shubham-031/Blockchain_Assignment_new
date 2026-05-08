@@ -8,3 +8,4 @@ remix light extension install ---
 assignment 5
 
 
+ganache-cli cmd
